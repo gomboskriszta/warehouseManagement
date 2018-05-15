@@ -1,0 +1,4 @@
+OrderID 14
+Sandwich, 3.0 RON quantity 1 
+Suc, 5.0 RON quantity 1 
+Total price 8.0 RON
